@@ -35,4 +35,5 @@ Git管理が不要なファイル/ディレクトリの設定ファイルです�
 ### README.md
 このドキュメントです。
 
-generated from DiscordBotPortalJP/discordpy-startup
+
+// generated from DiscordBotPortalJP/discordpy-startup
